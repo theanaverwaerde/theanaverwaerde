@@ -1,6 +1,6 @@
 ### Welcome I'm Théana, young developer, 23 years old 👋
 
-## I'm a Developper
+## I'm a Developer
 - 🧑‍💻 I'm currently working at OverSOC
 - 🌱 I’m currently learning C# with Unity & .NET
 - 🎯 I'm like playing darts and I'm a carom billiard player 🎱
