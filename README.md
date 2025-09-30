@@ -1,8 +1,4 @@
-### Welcome I'm Théana (also known as Twaerd), young developer, 24 years old 👋
-
-## I'm a Developer
-- 🧑‍💻 I'm currently working at [OverSOC](https://www.oversoc.com)
-- 🌱 I’m currently learning [Golang](https://go.dev) for software development and [MonoGame](https://monogame.net) for game development
+### Welcome I'm Théana (also known as Twaerd), young developer, 25 years old 👋
 
 ### Connect with me:
 
